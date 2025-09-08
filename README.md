@@ -4,3 +4,5 @@
 "## Contributor: Captain"  "Added assignment details and clarified Git workflow steps for collaborative development." 
    # adds a blank lineecho "### Git Workflow Summary"  "- Created feature branch"  "- Edited README.md"  "- Committed changes"  "- Pushed to remote" 
 "## Contributor: Captain (conflict version)"  "This version intentionally conflicts with the previous PR." 
+"## Contributor: Captain (conflict version)"  "This version intentionally conflicts with the previous PR." 
+"## Contributor: Amir"  "Added initial assignment details and setup instructions." 
