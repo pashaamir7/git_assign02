@@ -6,3 +6,4 @@
 "## Contributor: Captain (conflict version)"  "This version intentionally conflicts with the previous PR." 
 "## Contributor: Captain (conflict version)"  "This version intentionally conflicts with the previous PR." 
 "## Contributor: Amir"  "Added initial assignment details and setup instructions." 
+"## Contributor: Captain"  "Added conflicting update to README for merge conflict simulation." 
